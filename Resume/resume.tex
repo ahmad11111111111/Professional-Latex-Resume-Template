@@ -1,0 +1,77 @@
+\documentclass[a4paper,9pt]{article}
+\usepackage{geometry}
+\geometry{margin=0.5in}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{hyperref}
+
+\titleformat{\section}{\large\bfseries}{}{0em}{}[\titlerule]
+\titleformat{\subsection}{\bfseries}{}{0em}{}
+
+\setlist{nosep} % Reduce space between list items
+
+\begin{document}
+
+\begin{center}
+    {\large \textbf{Your Full Name}} \\
+    \vspace{1mm}
+    {\large Your Job Title or Career Objective} \\
+    {\large Your City, State | (000) 000-0000 | \href{mailto:your.email@example.com}{your.email@example.com}} \\
+    {\large LinkedIn: \href{https://linkedin.com/in/your-link}{linkedin.com/in/your-link}} \\
+    {\large GitHub: \href{https://github.com/yourusername}{github.com/yourusername}}
+\end{center}
+
+\vspace{2mm}
+\sloppy
+
+\noindent
+Brief summary about your background, skills, and interests. Include specialties such as programming, research areas, or industries you’ve worked in. Aim for 3–4 concise sentences.
+
+\begin{sloppypar}
+\end{sloppypar}
+
+\section*{Professional Experience}
+
+\subsection*{Job Title (Company Name) \hfill YYYY–YYYY}
+\begin{itemize}[leftmargin=0.15in]
+    \item Describe your responsibilities and contributions in bullet form.
+    \item Use action verbs and quantify achievements where possible.
+\end{itemize}
+
+\subsection*{Job Title (Company Name) \hfill YYYY–YYYY}
+\begin{itemize}[leftmargin=0.15in]
+    \item Another job or internship experience.
+    \item You can list teaching, industry, or research experiences here.
+\end{itemize}
+
+\section*{Projects}
+\begin{itemize}[leftmargin=0.15in]
+    \item \textbf{Project Title}  
+    \begin{itemize}
+        \item One-line description of the project.
+        \item Technologies/tools used: Python, TensorFlow, etc.
+    \end{itemize}
+    \item \textbf{Another Project}
+    \begin{itemize}
+        \item What you built, designed, or implemented.
+        \item Link to GitHub repo (optional).
+    \end{itemize}
+\end{itemize}
+
+\section*{Technical Skills}
+\begin{itemize}[leftmargin=0.15in]
+    \item Programming Languages: Python, C++, R, etc.
+    \item Tools and Libraries: TensorFlow, PyTorch, Scikit-learn, etc.
+    \item Hardware: Arduino, Raspberry Pi, etc.
+    \item Others: Git, Linux, LaTeX, SQL, Docker, etc.
+\end{itemize}
+
+\section*{Education}
+\begin{itemize}[leftmargin=0.15in]
+    \item \textbf{University Name} — Degree Title, YYYY–YYYY  
+    GPA: X.XX
+    \item \textbf{Another University or Certification Program} — Degree or Certificate, YYYY–YYYY  
+    GPA or completion status
+\end{itemize}
+
+\end{document}
