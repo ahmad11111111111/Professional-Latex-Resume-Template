@@ -1,6 +1,6 @@
 # 📄 Professional Resume (LaTeX)
 
-This repository contains a clean, modern, and highly customizable professional resume template built using LaTeX. Designed for professionals in any field, the template emphasizes readability, consistency, and elegance.
+This repository contains a clean, modern, and highly customizable professional resume template built using LaTeX. Designed for professionals.
 
 ## ✨ Features
 
@@ -13,9 +13,7 @@ This repository contains a clean, modern, and highly customizable professional r
 ## 📂 Structure
 
 - `resume.tex`: Main LaTeX source file  
-- `preamble.tex`: Contains styling, fonts, and macros  
-- `sections/`: Modular sections (e.g., education, experience, skills)  
-- `build/`: Compiled PDF output  
+- `preamble.tex`:
 
 ## 📦 Requirements
 
