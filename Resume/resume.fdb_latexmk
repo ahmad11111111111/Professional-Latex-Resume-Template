@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1745333282.49418 "/Users/ahmadalsalem/Documents/Professional-Latex-Resume-Template/Resume/resume.tex" "resume.pdf" "resume" 1745333282.87746 0
-  "/Users/ahmadalsalem/Documents/Professional-Latex-Resume-Template/Resume/resume.tex" 1745333282.39357 2564 0e9dc8d6a0b62886f0837e31feb5ee82 ""
+["pdflatex"] 1745333764.42547 "/Users/ahmadalsalem/Documents/Professional-Latex-Resume-Template/Resume/resume.tex" "resume.pdf" "resume" 1745333764.82627 0
+  "/Users/ahmadalsalem/Documents/Professional-Latex-Resume-Template/Resume/resume.tex" 1745333764.31908 2561 8e693f78cbbca9220660b4fc9e1a4c6f ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -52,9 +52,9 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1738600774.75738 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1738600705 8221443 d8237c9ec410f4ede16baf0a3cea2e90 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "resume.aux" 1745333282.84634 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
-  "resume.out" 1745333282.74347 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "resume.tex" 1745333282.39357 2564 0e9dc8d6a0b62886f0837e31feb5ee82 ""
+  "resume.aux" 1745333764.77987 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
+  "resume.out" 1745333764.67626 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "resume.tex" 1745333764.31908 2561 8e693f78cbbca9220660b4fc9e1a4c6f ""
   (generated)
   "resume.aux"
   "resume.log"
